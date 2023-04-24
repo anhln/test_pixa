@@ -1,7 +1,7 @@
 {
-  "name": "typescript-basic-skeleton",
+  "name": "organization-tree",
   "version": "2.0.0",
-  "description": "Bootstrap your new TypeScript project with the bare minimum dependencies",
+  "description": "TypeScript project for testing",
   "scripts": {
     "lint": "eslint --ignore-path .gitignore .",
     "lint:fix": "npm run lint -- --fix",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CodelyTV/typescript-basic-skeleton.git"
+    "url": "git+https://github.com/anhln/test_pixa.git"
   },
-  "author": "codelytv",
+  "author": "anhln",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/CodelyTV/typescript-basic-skeleton/issues"
+    "url": "https://github.com/anhln/test_pixa/issues"
   },
-  "homepage": "https://github.com/CodelyTV/typescript-basic-skeleton#readme",
+  "homepage": "https://github.com/anhln/test_pixa#readme",
   "devDependencies": {
     "@swc/core": "^1.2.172",
     "@swc/jest": "^0.2.20",
